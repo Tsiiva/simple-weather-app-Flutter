@@ -48,7 +48,7 @@ lib/
 
 ```bash
 # Cloner le projet
-git clone https://github.com/<ton-username>/weather_app.git
+git clone https://github.com/Tsiiva/weather_app.git
 cd weather_app
 
 # Installer les dépendances
